@@ -1,1 +1,4 @@
-print("hi lol i love OTmegan")
+print("this is a test")
+
+for x in "test":
+    print(x)

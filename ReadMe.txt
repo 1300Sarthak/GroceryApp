@@ -1,5 +1,1 @@
-Hi there this is a test of the git - Sarthak Sethi lol
-
-i hate OTmegan - DYLAN CM
-
-hello
+This is our application in which helps us track out grocery store application 
