@@ -1,0 +1,1 @@
+Dylan and I worked on the app more, working with more the database managment part with MySQL
